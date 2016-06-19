@@ -1,8 +1,9 @@
 # DeepLearning
 
-Simple RNN Example with Tensorflow
-
 Installation Instructions (MAC OS)
+
+
+Simple RNN Example with Tensorflow
 
 ```shell
 #Clone Repo
