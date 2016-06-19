@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning - RNN 
 
 Installation Instructions (MAC OS)
 
