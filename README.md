@@ -29,7 +29,7 @@ Simple Example of LSTM, using Keras
 
 ```shell
 
-# Skip the clone and activation of the virtualenv if already done!
+#Skip the clone and activation of the virtualenv if already done!
 #Clone Repo
 git clone https://github.com/harsha91/DeepLearning.git
 
@@ -42,7 +42,7 @@ cd DeepLearning
 virtualenv env
 source env/bin/activate
 
-#Install kera
+#Install keras
 pip install keras
 
 #by default keras uses Theno backend
